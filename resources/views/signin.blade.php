@@ -27,26 +27,37 @@
             </div>
         </nav>
 
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
-        <h1 class="text-center">LAGAY DITO WELCOME SCREEN SAKA BUTTON FOR SIGN IN/REGISTER</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+        <h1 class="text-center">LAGAY DITO WELCOME SIGN IN</h1>
+
     
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>

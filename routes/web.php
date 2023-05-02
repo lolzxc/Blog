@@ -17,4 +17,6 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // }, ['test' => 'WORKING']);
 
-Route::view('/', 'index');
+Route::view('/', 'index')->name('index');
+Route::view('/about', 'about')->name('about');
+Route::view('/home', 'home')->name('home');
